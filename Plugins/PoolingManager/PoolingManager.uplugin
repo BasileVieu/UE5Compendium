@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PoolingManager",
+	"Description": "Plugin to handle big amount of objects by using a pooling system.",
+	"Category": "Other",
+	"CreatedBy": "Jaeger",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PoolingManager",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

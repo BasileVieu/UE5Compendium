@@ -1,0 +1,97 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.7",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Compendium",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "CableGenerator",
+			"Enabled": false
+		},
+		{
+			"Name": "CamFlow",
+			"Enabled": false
+		},
+		{
+			"Name": "EchoesOfGreen",
+			"Enabled": false
+		},
+		{
+			"Name": "FractalCore",
+			"Enabled": false
+		},
+		{
+			"Name": "FreeformSequence",
+			"Enabled": false
+		},
+		{
+			"Name": "GravityFields",
+			"Enabled": false
+		},
+		{
+			"Name": "Lenia",
+			"Enabled": false
+		},
+		{
+			"Name": "MultiThreadCore",
+			"Enabled": false
+		},
+		{
+			"Name": "OcclusionViewer",
+			"Enabled": false
+		},
+		{
+			"Name": "OuterWildsSun",
+			"Enabled": false
+		},
+		{
+			"Name": "PlayerResourcesFlow",
+			"Enabled": false
+		},
+		{
+			"Name": "PoolingManager",
+			"Enabled": false
+		},
+		{
+			"Name": "QuestsCore",
+			"Enabled": false
+		},
+		{
+			"Name": "SmokeCore",
+			"Enabled": false
+		},
+		{
+			"Name": "VoidMarauder",
+			"Enabled": false
+		},
+		{
+			"Name": "WaterCore",
+			"Enabled": false
+		},
+		{
+			"Name": "DialogCore",
+			"Enabled": false
+		},
+		{
+			"Name": "QuestCore",
+			"Enabled": false
+		}
+	]
+}

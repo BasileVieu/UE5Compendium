@@ -1,0 +1,3 @@
+[submodule "Plugins/IdleGame"]
+	path = Plugins/IdleGame
+	url = https://github.com/BasileVieu/UE5IdleGame.git

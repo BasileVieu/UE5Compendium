@@ -1,3 +1,6 @@
 [submodule "Plugins/IdleGame"]
 	path = Plugins/IdleGame
 	url = https://github.com/BasileVieu/UE5IdleGame.git
+[submodule "Plugins/FreeformSequence"]
+	path = Plugins/FreeformSequence
+	url = https://github.com/BasileVieu/UE5FreeformSequence.git

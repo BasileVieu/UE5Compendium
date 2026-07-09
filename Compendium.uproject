@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -35,10 +35,6 @@
 		},
 		{
 			"Name": "FractalCore",
-			"Enabled": false
-		},
-		{
-			"Name": "FreeformSequence",
 			"Enabled": false
 		},
 		{
@@ -91,6 +87,14 @@
 		},
 		{
 			"Name": "QuestCore",
+			"Enabled": false
+		},
+		{
+			"Name": "IdleGame",
+			"Enabled": false
+		},
+		{
+			"Name": "GlyphWeaver",
 			"Enabled": false
 		}
 	]

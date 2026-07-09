@@ -4,3 +4,6 @@
 [submodule "Plugins/GlyphWeaver"]
 	path = Plugins/GlyphWeaver
 	url = https://github.com/BasileVieu/UE5GlyphWeaver.git
+[submodule "Plugins/GravityFields"]
+	path = Plugins/GravityFields
+	url = https://github.com/BasileVieu/UE5GravityFields.git
